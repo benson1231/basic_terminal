@@ -11,26 +11,26 @@ CMD node / index.js
 ```
 docker build -t (名稱) .
 ```
-#
+# 
 ```
 docker images
 ```
-#
+# 
 ```
 docker run (名稱)
 ```
 # 加上tag(docker-hub-name/repo)
 ```
-docker tag (名稱) (docker-hub-name/repo)
+docker tag (名稱) (tag)
 ```
 # 上傳
 ```
-docker push (docker-hub-name/repo) 
+docker push (tag) 
 ```
 # 線上  https://labs.play-with-docker.com/
 # 拉資料
 ```
-docker pull (docker-hub-name/repo)
+docker pull (tag)
 ```
 
 
