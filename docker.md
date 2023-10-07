@@ -1,5 +1,6 @@
 # docker  https://www.docker.com/
 # docker hub  https://hub.docker.com/
+# 教學  https://kawsing.gitbook.io/opensystem/docker-cong-an-zhuang-dao-ying-yong-ru-men-pian/untitled-5
 # VS code 資料夾中建立 Dockerfile
 ```
 FROM node:14-alpine
