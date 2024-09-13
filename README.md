@@ -62,8 +62,10 @@ sudo 指令
 ```shell
 man 指令
 ```
-
-
+### touch:creates a new file
+```shell
+touch grocery-list.txt
+```
 
 
 
